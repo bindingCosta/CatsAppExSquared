@@ -12,13 +12,21 @@ This is my submission for the mobile challenge, where I created an app to displa
 
 **1. Clone the repository:**
 
+````
+
 git clone <repository_url>
 
 cd CatsAppExSquared
 
+````
+
 **2. Install dependencies (if any):**
 
+````
+
 swift package resolve
+
+````
 
 **3. Run the app:**
 
