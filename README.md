@@ -14,7 +14,7 @@ This is my submission for the mobile challenge, where I created an app to displa
 
 ````
 
-git clone <repository_url>
+git clone <https://github.com/bindingCosta/CatsAppExSquared.git>
 
 cd CatsAppExSquared
 
